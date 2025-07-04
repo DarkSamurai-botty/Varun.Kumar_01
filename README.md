@@ -1,6 +1,6 @@
 # My Coding Portfolio 🧑‍💻📚
 
-Hi! I'm [Your Name], a student learning to code using Python.  
+Hi! I'm Varun Kumar Arivuvel, a student learning to code using Python.  
 This is a collection of my favorite projects — games, tools, and fun logic exercises!
 
 ---
