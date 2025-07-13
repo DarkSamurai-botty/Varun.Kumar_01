@@ -29,6 +29,9 @@ This is a simple Python program that prints a right-angled triangle pattern usin
 
 ## 🔧 How It Works
 
+FizzBuzz in Python
+This simple Python script prints the numbers from 1 to 30. But for multiples of 3, it prints "Fizz" instead of the number, and for multiples of 5, it prints "Buzz". For numbers that are multiples of both 3 and 5, it prints "FizzBuzz".
+
 1. The program asks the user to enter a number (e.g., 5).
 2. It then prints a triangle with that many rows:
 
