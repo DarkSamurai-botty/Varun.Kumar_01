@@ -23,6 +23,16 @@ A simple Python console program that generates an employee payslip based on thei
 **Skills used**:  Basic arithmetic calculations, using variables to store and manipulate data, string formatting with f-strings, printing formatted text in the console, defining and calling functions, simple program flow and user interaction.
 
 
+# Triangle Pattern Generator
+
+This is a simple Python program that prints a right-angled triangle pattern using asterisks (`*`), based on the number entered by the user.
+
+## 🔧 How It Works
+
+1. The program asks the user to enter a number (e.g., 5).
+2. It then prints a triangle with that many rows:
+
+
 
 *(More projects coming soon!)*
 
